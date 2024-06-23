@@ -7,7 +7,7 @@ ext {
     pkgNameSuffix = 'all.twitch'
     extClass = '.Twitch'
     extVersionCode = 1
-    libVersion = '13'
+    libVersion = '14'
 }
 
 apply from: "$rootDir/common.gradle"

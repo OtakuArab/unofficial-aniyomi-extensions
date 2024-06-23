@@ -7,7 +7,7 @@ ext {
     pkgNameSuffix = 'all.pornhub'
     extClass = '.Pornhub'
     extVersionCode = 6
-    libVersion = '13'
+    libVersion = '14'
     containsNsfw = true
 }
 

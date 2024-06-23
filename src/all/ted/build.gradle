@@ -7,7 +7,7 @@ ext {
     pkgNameSuffix = 'all.ted'
     extClass = '.Ted'
     extVersionCode = 2
-    libVersion = '13'
+    libVersion = '14'
 }
 
 apply from: "$rootDir/common.gradle"

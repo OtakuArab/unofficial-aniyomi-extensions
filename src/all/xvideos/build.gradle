@@ -6,7 +6,7 @@ ext {
     pkgNameSuffix = 'all.xvideos'
     extClass = '.Xvideos'
     extVersionCode = 3
-    libVersion = '13'
+    libVersion = '14'
     containsNsfw = true
 }
 
